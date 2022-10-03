@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Vivid",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(128, 6, 139)",
+      "toolbar_text": "rgb(252, 252, 252)",
+      "frame": "rgb(0, 62, 98)",
+      "tab_background_text": "rgb(255, 199, 211)",
+      "toolbar_field": "rgb(0, 0, 0)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(221, 170, 68)",
+      "popup": "rgb(0, 6, 111)",
+      "popup_text": "rgb(255, 255, 255)",
+      "tab_loading": "rgb(221, 170, 68)"
+    }
+  }
+}
